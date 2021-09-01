@@ -1,0 +1,26 @@
+@import url(httpL//fonts.googleapis.com/earlyaccess/nanumgothic.css); 
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css); 
+*{
+	font-family : 'Nanum Gothic'; 
+}
+h1,h2,  #info, p {
+	font-family : 'Hanna'; 
+}
+#info {
+	font-size : 17px; 
+}
+#info input{
+     border: none;
+     font-size: 17px;
+     outline: none;
+     text-align: left;
+}
+#info button{
+      border:none;
+      width:60px;
+      max-width: 100px;
+      vertical-align: bottom;
+  }
+#info button img{
+	width : 100%; 
+}
